@@ -3,7 +3,7 @@ h1{
 }
 .completed{
     text-decoration: line-through;
-    color: gray;
+    color: red;
 }
 .not{
     text-decoration: underline;
